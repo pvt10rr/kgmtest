@@ -1,4 +1,7 @@
-﻿// This application lets the tester be the master of the session.
+﻿// kgm added a line to check out git integration w/VS2010
+
+
+// This application lets the tester be the master of the session.
 //  Logger - logs details in the 'log.log' file.
 ///-------
 
